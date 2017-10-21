@@ -1,0 +1,21 @@
+Git Config
+====================
+git config --global user.name USERNAME
+
+git config --global user.email EMAIL
+
+Steps
+==========================
+git clone URL
+
+git add FILENAME
+
+git commit -m "commit comment" FILENAME
+
+git push -u origin master
+
+
+
+
+
+
